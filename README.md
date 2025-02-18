@@ -46,11 +46,40 @@ This portfolio will be to document my research/accomplishments and consists of t
 
 ## 🛠️ Certifications
 
+| Cert Name | Cert Provider | Status | Write-Up |
+|----------|----------|----------|----------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 ## 🛠️ Training
+
+| Training Name | Training Provider | Cert Related | Status | Write-Up |
+|----------|----------|----------|----------|----------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ## 🛠️ Guides
 
+| Guide Name | Guide Type | Status | Write-Up |
+|----------|----------|----------|----------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 ## 🛠️ My Research
+
+| Project Name | Status | GitHub Link |
+|----------|----------|----------|
+|  |  |  |
+|  |  |  |
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/chadwick-p/)
