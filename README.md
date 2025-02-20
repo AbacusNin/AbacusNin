@@ -7,7 +7,7 @@ I am a cybersecurity researcher and student.
 
 This portfolio will be to document my research/accomplishments and consists of the following sections:
 -  **L337 sk1llz:** An undetailed section regarding the l337357 sk1llz I've acquired. 
--  **Technical sk1llz:** An undetailed section regarding technical sk1llz I've acquired. 
+-  **Technical skills:** An undetailed section regarding technical skills I've acquired. 
 -  **Certifications:** Each certification I have achieved, descending newest to oldest. 
 -  **Training:** Training I've taken, may or may not be associated with a certification.
 -  **Guides:** Writeups and how-to's for courses, certs, training, skills, and tools.
@@ -31,7 +31,7 @@ This portfolio will be to document my research/accomplishments and consists of t
 - **AI Ethics & Governance:**
 - **Misc:**
 
-## 🛠️ Technical sk1llz
+## 🛠️ Technical Skills
 - **AI:**
 - **Cybersecurity:**
 - **Threat Intelligence:**
