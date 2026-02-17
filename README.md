@@ -2,7 +2,7 @@
 
 **Cybersecurity Professional | Dual-Use Researcher**
 
-🎓 **B.A.S. Information Warfare & Cyber Operations, SIGINT & EW** — University of Arizona (NCAE-C)
+🎓 **B.A.S. Cyber Engineering & IO/IW** — University of Arizona (NCAE-C)
 📍 🇺🇸 | U.S. Citizen
 
 ---
