@@ -1,16 +1,38 @@
-## Hi there 👋
+# Yo, I'm Abacus 👋
 
-<!--
-**AbacusNin/AbacusNin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Professional | Dual-Use Researcher**
 
-Here are some ideas to get you started:
+🎓 **B.A.S. Information Warfare & Cyber Operations, SIGINT & EW** — University of Arizona (NCAE-C)
+📍 🇺🇸 | U.S. Citizen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Do
+
+I build tools and frameworks at the intersection of cybersecurity, artificial intelligence,
+and intelligence operations. My work spans vulnerability management, compliance
+automation, AI governance, systems architecture, and AI research.
+
+### Current Focus
+
+- 🔬 Multi-INT fusion engine architecture
+- 📡 Distributed mesh network design
+- 🛡️ CMMC/NIST 800-171 compliance auditing for the DIB
+- 📚 School & Studies; giving proper dedication, deference, and discipline
+- 🎯 Preparing for NCL, NCAE Cyber Games, and Cyber Quest (Spring 2026)
+
+### Certifications
+
+`Security+` · `CySA+` · `CMMC-RP` · `ISO 42001 Lead Auditor` · `ISO 42001 Lead Implementer`
+
+---
+
+📂 **[View my project portfolio →](https://github.com/AbacusNin/project-portfolio)**
+
+> *Some projects are maintained in private repos due to the sensitive nature of the
+> capabilities involved. Public documentation focuses on architecture and methodology.
+> Reach out for collaboration or access inquiries.*
+
+---
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:abacusninja@gmail.com)
