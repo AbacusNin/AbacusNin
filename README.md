@@ -10,8 +10,7 @@
 ### What I Do
 
 I build tools and frameworks at the intersection of cybersecurity and artificial intelligence.
-My work spans vulnerability management, detection & attribution, compliance
-automation, AI research & governance, and systems architecture.
+My work spans vulnerability management, detection & attribution, compliance automation, AI research & governance, and systems architecture.
 
 ### Current Focus
 
@@ -19,7 +18,7 @@ automation, AI research & governance, and systems architecture.
 - 📡 Distributed mesh network
 - 🛡️ CMMC/NIST 800-171 compliance auditing for the DIB
 - 📚 School & Studies; giving proper dedication, deference, and discipline
-- 🎯 Participation in NCL, NCAE Cyber Games, PICO, and Cyber Quest
+- 🎯 Currently Participating in these CTFs: NCL, NCAE Cyber Games, PICO, and Cyber Quest
 
 ### Certifications
 
