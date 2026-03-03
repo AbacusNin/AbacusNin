@@ -28,7 +28,7 @@ My work spans vulnerability management, detection & attribution, compliance auto
 
 📂 **[View my project portfolio →](https://github.com/AbacusNin/project-portfolio)**
 
-> *Some projects are maintained in privately. Public documentation focuses on architecture and methodology.
+> *Some projects are maintained privately. Public documentation focuses on architecture and methodology.
 > Reach out for collaboration or access inquiries.*
 
 ---
