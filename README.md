@@ -9,17 +9,17 @@
 
 ### What I Do
 
-I build tools and frameworks at the intersection of cybersecurity, artificial intelligence,
-and intelligence operations. My work spans vulnerability management, compliance
-automation, AI governance, systems architecture, and AI research.
+I build tools and frameworks at the intersection of cybersecurity and artificial intelligence.
+My work spans vulnerability management, detection & attribution, compliance
+automation, AI research & governance, and systems architecture.
 
 ### Current Focus
 
 - 🔬 Multi-INT fusion engine architecture
-- 📡 Distributed mesh network design
+- 📡 Distributed mesh network
 - 🛡️ CMMC/NIST 800-171 compliance auditing for the DIB
 - 📚 School & Studies; giving proper dedication, deference, and discipline
-- 🎯 Preparing for NCL, NCAE Cyber Games, and Cyber Quest (Spring 2026)
+- 🎯 Participation in NCL, NCAE Cyber Games, PICO, and Cyber Quest
 
 ### Certifications
 
@@ -29,8 +29,7 @@ automation, AI governance, systems architecture, and AI research.
 
 📂 **[View my project portfolio →](https://github.com/AbacusNin/project-portfolio)**
 
-> *Some projects are maintained in private repos due to the sensitive nature of the
-> capabilities involved. Public documentation focuses on architecture and methodology.
+> *Some projects are maintained in privately. Public documentation focuses on architecture and methodology.
 > Reach out for collaboration or access inquiries.*
 
 ---
