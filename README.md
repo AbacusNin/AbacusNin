@@ -2,7 +2,7 @@
 
 **Cybersecurity Professional | Dual-Use Researcher**
 
-🎓 **B.A.S. Cyber Engineering & IO/IW** — University of Arizona (NCAE-C)
+🎓 **Bachelor of Applied Science, Cyber Engineering, IO/IW, Applied AI** — University of Arizona (NCAE Institution)
 📍 🇺🇸 | U.S. Citizen
 
 ---
@@ -22,15 +22,15 @@ My work spans vulnerability management, detection & attribution, compliance auto
 
 ### Certifications
 
-`Security+` · `CySA+` · `CMMC-RP` · `ISO 42001 Lead Auditor` · `ISO 42001 Lead Implementer`
+`Security+` · `CySA+` · `PenTest+` · `CMMC-RP` · `ISO 42001 Lead Auditor` · `ISO 42001 Lead Implementer`
 
 ---
 
 📂 **[View my project portfolio →](https://github.com/AbacusNin/project-portfolio)**
 
-> *Some projects are maintained privately. Public documentation focuses on architecture and methodology.
+> *Some projects are maintained privately.
 > Reach out for collaboration or access inquiries.*
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:abacusninja@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:abacusnin@gmail.com)
