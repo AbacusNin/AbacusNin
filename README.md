@@ -3,6 +3,7 @@
 **Cybersecurity Professional | Dual-Use Researcher**
 
 🎓 **Bachelor of Applied Science, Cyber Engineering, IO/IW, Applied AI** — University of Arizona (NCAE Institution)
+
 📍 🇺🇸 | U.S. Citizen
 
 ---
