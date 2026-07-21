@@ -14,11 +14,10 @@ My work spans vulnerability management, detection & attribution, compliance auto
 
 ### Current Focus
 
-- 🔬 Multi-INT fusion engine architecture
-- 📡 Distributed mesh network
+- 🔬 Projects: Multi-INT fusion engine architecture | Distributed mesh network
 - 🛡️ CMMC/NIST 800-171 compliance auditing for the DIB
-- 📚 School & Studies; giving proper dedication, deference, and discipline
-- 🎯 Currently Participating in these CTFs: NCL, NCAE Cyber Games, PICO, and Cyber Quest
+- 📚 School: Absolutely crushing my education with laser focus, dedication, and discipline
+- 🎯 CTFs: NCAE, NCL, CyberQuest, PicoCTF, From Dusk Til Dawn, NDIAS, TJCTF, 0xV01D, DEFCON, BroncoCTF
 
 ### Certifications
 
