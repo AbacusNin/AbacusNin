@@ -15,14 +15,13 @@ My work spans vulnerability management, detection & attribution, compliance auto
 
 ### Current Focus
 
-- 🔬 Projects: Multi-INT fusion engine architecture | Distributed mesh network
-- 🛡️ CMMC/NIST 800-171 compliance auditing for the DIB
+- 🔬 Projects: Multi-INT Fusion Engine | Signals Collection Distributed Mesh Network
 - 📚 School: Absolutely crushing my education with laser focus, dedication, and discipline
 - 🎯 CTFs: NCAE, NCL, CyberQuest, PicoCTF, From Dusk Til Dawn, NDIAS, TJCTF, 0xV01D, DEFCON, BroncoCTF
 
 ### Certifications
 
-`Security+` · `CySA+` · `PenTest+` · `CMMC-RP` · `ISO 42001 Lead Auditor` · `ISO 42001 Lead Implementer`
+`Security+` · `CySA+` · `PenTest+` · `CMMC-RP` · `ISO 42001 Lead Auditor` · `ISO 27001 Lead Auditor`
 
 ---
 
