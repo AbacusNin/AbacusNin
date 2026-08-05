@@ -2,7 +2,7 @@
 
 **Cybersecurity Professional | Dual-Use Researcher**
 
-🎓 **Bachelor of Applied Science, Cyber Engineering, IO/IW, Applied AI** @ University of Arizona
+🎓 **Bachelor of Applied Science, Cyber Engineering, Applied AI** @ University of Arizona
 
 📍 🇺🇸 | U.S. Citizen
 
@@ -15,9 +15,9 @@ My work spans vulnerability management, detection & attribution, compliance auto
 
 ### Current Focus
 
-- 🔬 Projects: Multi-INT Fusion Engine | Signals Collection Distributed Mesh Network
-- 📚 School: Disciplined & principled | Cyber // AI // IO research
-- 🎯 CTFs: NCAE, NCL, CyberQuest, PicoCTF, From Dusk Til Dawn, NDIAS, TJCTF, 0xV01D, DEFCON, BroncoCTF
+- 🔬 Projects: Focused on CUDA's ability to be a force-multiplier for security needs.
+- 📚 School: Disciplined & principled | Cyber // AI research
+- 🎯 CTFs: NCAE, NCL, CyberQuest, PicoCTF, From Dusk Til Dawn, NDIAS, TJCTF, 0xV01D, DEFCON, BroncoCTF,
 
 ### Certifications
 
