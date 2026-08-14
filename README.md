@@ -1,34 +1,42 @@
 # Yo, I'm Abacus 👋
 
-**Cybersecurity Professional | Dual-Use Researcher**
+**Cyber Operations | Vulnerability Analysis & Detection | Purple Team**
 
-🎓 **Bachelor of Applied Science, Cyber Engineering, Applied AI** @ University of Arizona
+I am a cybersecurity practitioner focused on understanding how systems fail, how vulnerabilities become operational risk, and how defenders can turn that understanding into better detection and response. 
 
-📍 🇺🇸 | U.S. Citizen
+My professional and technical work spans vulnerability analysis, risk prioritization, security research, detection engineering, and adversary-informed defensive analysis.
 
 ---
 
-### What I Do
+### Selected Work
 
-I build tools and frameworks at the intersection of cybersecurity and artificial intelligence.
-My work spans vulnerability management, detection & attribution, compliance automation, AI research & governance, and systems architecture.
+🔎 Vulnerability Analysis & Risk Prioritization
+
+Professional work involving emerging vulnerability analysis, contextual risk assessment, prioritization, and the translation of vulnerability findings into defensive action.
+
+⚙️ Rotation & Recovery: Stateful Protocol Exploitation
+
+Analysis and exploitation of a custom stateful cryptographic protocol using WebAssembly, verification-oracle behavior, polynomial arithmetic over GF(2), residue recovery, and cost-constrained optimization.
+
+🛡️ Detection Engineering
+
+Applied work translating adversary techniques and observable behaviors into detection logic across network and security telemetry.
+
+Additional public case studies and technical writeups are maintained in my project portfolio.
 
 ### Current Focus
 
-- 🔬 Projects: Focused on CUDA's ability to be a force-multiplier for security needs.
-- 📚 School: Disciplined & principled | Cyber // AI research
-- 🎯 CTFs: NCAE, NCL, CyberQuest, PicoCTF, From Dusk Til Dawn, NDIAS, TJCTF, 0xV01D, DEFCON, BroncoCTF,
+My primary focus is Cyber Operations, with particular depth in vulnerability analysis and detection.
 
-### Certifications
+I am also developing toward AI Security & Assurance, especially where reverse engineering, model analysis, security engineering, and adversarial thinking intersect.
 
-`Security+` · `CySA+` · `PenTest+` · `CMMC-RP` · `ISO 42001 Lead Auditor` · `ISO 27001 Lead Auditor`
+### Background
 
----
-
-📂 **[View my project portfolio →](https://github.com/AbacusNin/project-portfolio)**
-
-> *Some projects are maintained privately.
-> Reach out for collaboration or access inquiries.*
+* Cybersecurity professional with prior enterprise vulnerability and security-analysis experience 
+* University of Arizona, Cyber Engineering | Information Warfare | Applied AI 
+* Security+ | CySA+ | 
+* ISO/IEC 27001 Lead Auditor | ISO/IEC 42001 Lead Auditor 
+* U.S. Citizen
 
 ---
 
